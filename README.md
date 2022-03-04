@@ -1,1 +1,0 @@
-# -Waste-Classification-System-Using-Deep-Transfer-Learning-Based-on-3-Materials
